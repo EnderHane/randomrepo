@@ -1,0 +1,7 @@
+
+[dependencies]
+peniko = { git = "https://github.com/linebender/peniko.git" }
+tiny-skia = { git = "https://github.com/RazrFalcon/tiny-skia.git" }
+
+[dependencies.parley]
+git = "https://github.com/linebender/parley.git"
